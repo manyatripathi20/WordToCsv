@@ -58,6 +58,7 @@ function App() {
 
   return (
     <div className="bg-gray-900 min-h-screen flex items-center justify-center text-white">
+      <title >Word to csv</title>
       <div className="bg-gray-800 p-8 rounded-lg shadow-md max-w-md w-full">
         <h1 className="text-3xl font-bold mb-6">CSV Converter</h1>
 
